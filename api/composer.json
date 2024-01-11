@@ -1,0 +1,14 @@
+{
+    "name": "conta/api",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "Classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "s"
+        }
+    ],
+    "require": {}
+}

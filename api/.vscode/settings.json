@@ -1,0 +1,4 @@
+{
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "phpCreateClass.composerFilePath": ""
+}
